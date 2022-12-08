@@ -1,3 +1,3 @@
 # mypkg
 ros2のmypkg
-第９回終わり
+第９回
